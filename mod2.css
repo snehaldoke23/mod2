@@ -19,7 +19,7 @@
  margin: 15px; 
 }
 
-.item{
+.i1{
   position: relative;
   top: 0;
   background-color:#999999;
@@ -28,7 +28,7 @@
   border: 3px solid #000;
 }
 
-.item p{
+.i1 p{
   margin-top: 18px;
   text-align: justify;
   font-size:100%;
@@ -44,15 +44,15 @@
   border-bottom: 2px solid #000;
 }
 
-#title-one {
+#t1 {
   background-color: #D59898;
 } 
 
-#title-two{
+#t2{
   background-color: #C14543;
 }
 
-#title-three{
+#t3{
   background-color: #E5D198;
 }
 
