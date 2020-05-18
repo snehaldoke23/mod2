@@ -8,7 +8,7 @@
 p{
 	position: absolute;
 	float: left;
-	float: bottom;
+	overflow: none;
 	margin-right: auto;
 	margin-left: auto;
 	padding: 1px;
